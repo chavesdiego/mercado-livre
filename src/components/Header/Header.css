@@ -1,0 +1,26 @@
+.header {
+  background-color: #fff059;
+  padding: 10px;
+  text-align: center;
+}
+
+.header .logo {
+  display: inline-block;
+  vertical-align: middle;
+  outline: none;
+  font-size: 0;
+  width: 160px;
+  height: 40px;
+  background: url('/logo-mercado-livre.png') 50% no-repeat;
+}
+
+.header .logo a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+
+.header__content {
+  width: 70%;
+  margin: auto;
+}
